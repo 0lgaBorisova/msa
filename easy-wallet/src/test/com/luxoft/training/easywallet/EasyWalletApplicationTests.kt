@@ -11,5 +11,4 @@ class EasyWalletApplicationTests {
 	@Test
 	fun contextLoads() {
 	}
-
 }

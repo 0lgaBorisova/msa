@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 import org.springframework.context.annotation.ComponentScan
 
-@ComponentScan(basePackages = ["com.luxoft.training.msa"])
 @SpringBootApplication
+@ComponentScan(basePackages = ["com.luxoft.training.msa"])
 class EasyWalletApplication
 
 fun main(args: Array<String>) {
